@@ -4,7 +4,7 @@
         "numero":23,
         "calle":"Diciembre"
     },
-    "calificacione":[
+    "calificaciones":[
         9,9,10,11
     ]
 }
@@ -14,7 +14,7 @@
         "numero":21,
         "calle":"Enero"
     },
-    "calificacione":[
+    "calificaciones":[
         10,8,8
     ]
 }
@@ -24,7 +24,7 @@
         "numero":45,
         "calle":"Marzo"
     },
-    "calificacione":[
+    "calificaciones":[
         9,8,7
     ]
 }
@@ -35,7 +35,7 @@
         "numero":19,
         "calle":"Mayo"
     },
-    "calificacione":[
+    "calificaciones":[
         9,8,9
     ]
 }
@@ -45,7 +45,7 @@
         "numero":45,
         "calle":"Septiembre"
     },
-    "calificacione":[
+    "calificaciones":[
         8,8,9
     ]
 }
@@ -55,7 +55,7 @@
         "numero":19,
         "calle":"Septiembre"
     },
-    "calificacione":[
+    "calificaciones":[
         8,8,8
     ]
 }
@@ -65,7 +65,7 @@
         "numero":87,
         "calle":"Diciembre"
     },
-    "calificacione":[
+    "calificaciones":[
         9,7,8
     ]
 }
