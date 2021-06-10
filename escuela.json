@@ -1,0 +1,71 @@
+{
+    "correo":"luis@gmail.com",
+    "direccion":{
+        "numero":23,
+        "calle":"Diciembre"
+    },
+    "calificacione":[
+        9,9,10,11
+    ]
+}
+{
+    "correo":"maria@hotmail.com",
+    "direccion":{
+        "numero":21,
+        "calle":"Enero"
+    },
+    "calificacione":[
+        10,8,8
+    ]
+}
+{
+    "correo":"javier@gmail.com",
+    "direccion":{
+        "numero":45,
+        "calle":"Marzo"
+    },
+    "calificacione":[
+        9,8,7
+    ]
+}
+
+{
+    "correo":"carolina@gmail.com",
+    "direccion":{
+        "numero":19,
+        "calle":"Mayo"
+    },
+    "calificacione":[
+        9,8,9
+    ]
+}
+{
+    "correo":"daniela@gmail.com",
+    "direccion":{
+        "numero":45,
+        "calle":"Septiembre"
+    },
+    "calificacione":[
+        8,8,9
+    ]
+}
+{
+    "correo":"jazmin@gmail.com",
+    "direccion":{
+        "numero":19,
+        "calle":"Septiembre"
+    },
+    "calificacione":[
+        8,8,8
+    ]
+}
+{
+    "correo":"luz@live.com",
+    "direccion":{
+        "numero":87,
+        "calle":"Diciembre"
+    },
+    "calificacione":[
+        9,7,8
+    ]
+}
